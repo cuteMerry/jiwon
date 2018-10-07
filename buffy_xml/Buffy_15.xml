@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Buffy_15.jpg</filename>
+	<path>C:\Users\jiwon_2\Downloads\jiwon-master\jiwon-master\images\Buffy_15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>569</width>
+		<height>649</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>442</ymin>
+			<xmax>438</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>
