@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Inria_15.jpg</filename>
+	<path>C:\Users\jiwon_2\Downloads\training_data\images\Inria_15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>692</width>
+		<height>976</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>487</ymin>
+			<xmax>140</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>
