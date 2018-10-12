@@ -1,0 +1,26 @@
+<annotation>
+	<folder>meditaion</folder>
+	<filename>IMG_6353.jpg</filename>
+	<path>E:\meditaion\IMG_6353.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>383</ymin>
+			<xmax>473</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>
