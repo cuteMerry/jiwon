@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Buffy_7</folder>
+	<filename>Inria_84.jpg</filename>
+	<path>C:\Users\jiwon_2\Desktop\Buffy_7\Inria_84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>771</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>388</ymin>
+			<xmax>239</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

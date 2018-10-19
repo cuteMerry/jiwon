@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Buffy_281.jpg</filename>
+	<path>C:\Users\jiwon_2\Downloads\training_data\images\Buffy_281.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>611</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>399</ymin>
+			<xmax>193</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>
